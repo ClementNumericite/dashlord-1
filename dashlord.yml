@@ -19,6 +19,7 @@ tools:
   http: true
   nmap: true
   declaration-a11y: true
+  declaration-rgpd: true
   stats: true
   betagouv: true
 urls:
